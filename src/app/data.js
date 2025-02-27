@@ -19,74 +19,33 @@ Websites:
 export const projectsData = [
   {
     id: 1,
-    name: "EcoTracker",
-    description: "Track your carbon footprint",
+    name: "AI Code Editor",
+    description: "An AI-powered code editing tool",
     date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
+    demoLink: "https://github.com/samriddhitiwary/AI_Code_Editior",
   },
   {
     id: 2,
-    name: "ArtGallery Online",
-    description: "Digital art showcase platform",
+    name: "Healthcare Management System",
+    description: "A system for managing healthcare appointments and records",
     date: "2022-06-20",
-    demoLink: "https://artgalleryonline.example.com",
+    demoLink: "https://github.com/samriddhitiwary/bit-hackathon",
   },
   {
     id: 3,
-    name: "BudgetPlanner",
-    description: "Plan and track expenses",
+    name:  "Fern and Petal Website",
+    description: "A beautifully designed e-commerce website",
     date: "2022-09-10",
-    demoLink: "https://budgetplanner.example.com",
+    demoLink: "https://fern-npetal.vercel.app",
   },
   {
     id: 4,
-    name: "HealthBeat",
-    description: "Monitor heart rate zones",
+    name: "Boat Website Clone",
+    description: "A clone of the popular Boat website",
     date: "2022-05-30",
-    demoLink: "https://healthbeat.example.com",
+    demoLink: "https://boat-kappa.vercel.app",
   },
-  {
-    id: 5,
-    name: "RecipeFinder",
-    description: "Discover new recipes",
-    date: "2022-07-12",
-    demoLink: "https://recipefinder.example.com",
-  },
-  {
-    id: 6,
-    name: "JourneyLogger",
-    description: "Log your travels",
-    date: "2022-10-01",
-    demoLink: "https://journeylogger.example.com",
-  },
-  {
-    id: 7,
-    name: "StudyBuddy",
-    description: "Collaborative learning platform",
-    date: "2022-04-18",
-    demoLink: "https://studybuddy.example.com",
-  },
-  {
-    id: 8,
-    name: "TechTalk",
-    description: "Tech news aggregator",
-    date: "2022-11-05",
-    demoLink: "https://techtalk.example.com",
-  },
-  {
-    id: 9,
-    name: "FitTrack",
-    description: "Fitness and workout tracker",
-    date: "2022-03-22",
-    demoLink: "https://fittrack.example.com",
-  },
-  {
-    id: 10,
-    name: "MindfulMoments",
-    description: "Meditation and mindfulness app",
-    date: "2022-02-14",
-    demoLink: "https://mindfulmoments.example.com",
-  },
+  
 ];
 
 export const BtnList = [
@@ -96,22 +55,17 @@ export const BtnList = [
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
-    link: "https://www.github.com/codebucks27",
+    link: "https://github.com/samriddhitiwary",
     icon: "github",
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/codebucks",
+    link: "https://www.linkedin.com/in/samriddhi-tiwary-02621a256/",
     icon: "linkedin",
     newTab: true,
   },
-  {
-    label: "X",
-    link: "https://www.x.com/code_bucks",
-    icon: "twitter",
-    newTab: true,
-  },
+  
   {
     label: "Resume",
     link: "/resume.pdf",
